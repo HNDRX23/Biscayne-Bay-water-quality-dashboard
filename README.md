@@ -2,6 +2,10 @@
 
 An interactive data dashboard built with Streamlit for exploring water quality measurements collected from Biscayne Bay, Florida. Developed as part of an internship-ready software development course with Prof. Gregory Reis.
 
+## Video Demo
+
+https://github.com/user-attachments/assets/83942165-4cbf-47bb-adf5-1cf15459fa01
+
 ## Features
 
 - **Descriptive Statistics** — raw data table and summary stats for all measurements
